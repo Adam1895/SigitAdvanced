@@ -1,0 +1,1 @@
+def coin_problem(coin, numbers): return ', '.join([coin + str(i) for i in numbers])
